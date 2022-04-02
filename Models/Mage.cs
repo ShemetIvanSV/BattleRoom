@@ -6,6 +6,7 @@
         {
             Name = "Маг";
             Damage = 100;
+            //TEST
         }
     }
 }
